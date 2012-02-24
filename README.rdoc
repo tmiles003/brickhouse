@@ -1,0 +1,41 @@
+build a network of home inspectors that will inspect a home "on spec" at the earliest time after the home goes on the market or immediately before a seller brings the home to market.
+
+
+Business Model
+1. find out what a business model is
+
+
+
+Questions that need to be answered prior to going live or building a feature set
+1. can we find home inspectors that will work on spec?
+2. can we come up with a rate card that will attract customers?
+3. can we build a product set that will be marketable and yield the monies?
+4. how do people get houses inspected?
+5. will people accept a pre-done inspection?
+
+We will:
+
+1. take orders for new "retail" inspections
+2. take orders for "ratio" inspections
+3. coordinate inspection reports
+4. partner with realty firms such as redfin
+5. keep appointment records for customers
+
+
+persistance models
+
+customers
+inspectors
+homes
+invoices
+ratio_invoices
+retail_invoices
+
+
+suggested names:
+
+brickhouse
+finercottages
+housefox
+
+
